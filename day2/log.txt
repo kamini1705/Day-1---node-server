@@ -1,0 +1,3 @@
+[LOG]: Server started.
+[LOG]: User logged in.
+[LOG]: Error: Invalid input.
