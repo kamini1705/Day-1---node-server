@@ -8,5 +8,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamini1705/Day-1---node-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kamini1705/Day-1---node-server/issues"
+  },
+  "homepage": "https://github.com/kamini1705/Day-1---node-server#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
